@@ -1,0 +1,2 @@
+https://github.com/slackhq/hubot-slack
+https://toolbelt.heroku.com/debian
